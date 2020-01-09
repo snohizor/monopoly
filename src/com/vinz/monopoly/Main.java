@@ -1,5 +1,7 @@
 package com.vinz.monopoly;
 
+Bite
+Bite ^
 import java.util.ArrayList;
 import java.util.Arrays;
 
